@@ -2,12 +2,12 @@
 ==================================================================
 
 The code provided in the file run_analysis.R compiles a tidy dataset from the following files:
--X_train.txt
--y_train.txt
--X_test.txt
--y_test.txt
--activity_labels.txt
--features.txt
+- X_train.txt
+- y_train.txt
+- X_test.txt
+- y_test.txt
+- activity_labels.txt
+- features.txt
 
 
 the sequence of the steps is as follows:
