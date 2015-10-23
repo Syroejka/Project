@@ -5,7 +5,7 @@ SUBJECT - An identifier of the subject who carried out the experiment,
 
 ACTIVITY - a descriptive activity label 
 
- and 86 feature vector of mean and standard deviation estimated from the signals of he accelerometer and gyroscope:
+ and mean values of 86 feature vector of mean and standard deviation estimated from the signals of he accelerometer and gyroscope. Mean was calculated for each Subject ID and activity.
 
 
 
